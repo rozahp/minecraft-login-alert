@@ -1,0 +1,3 @@
+[11:11:11] [Server thread/INFO]: Player1[/111.111.111.111:53535] logged in with entity id 1111 at ([world]-999.9138958193859, 33.0, 333.9138958193859)
+[22:22:22] [Server thread/INFO]: Player1[/111.111.111.111:96543] logged in with entity id 2222 at ([world]-1555.9138958193859, 66.0, -222.9138958193859)
+[23:23:23] [Server thread/INFO]: Player2[/222.222.222.222:12345] logged in with entity id 3333 at ([world]-222.9138958193859, 66.0, -111.9138958193859)
